@@ -1,0 +1,915 @@
+primary inbox	0
+father and rape	0
+time i	0
+have number	0
+long time	0
+long time i	0
+mail team google	0
+see my mail	1
+have number account	0
+be wrong thing	0
+waste of time	0
+be waste of time	0
+send mail team google	0
+white screen	0
+say i	0
+new phone	0
+update my appname	0
+take the number	0
+story preview	0
+spoiler please	0
+give me spoiler please	0
+old interface	0
+number month	0
+be ad	0
+least number	0
+number or number	0
+find my subscription	1
+one from appname	0
+number or number month	0
+t load	0
+open i	1
+dosen t load	0
+open the app	1
+i click	0
+get download	1
+instal i	0
+instal i click	0
+get instal i	1
+take forever	0
+multiple try	0
+action block	0
+login screen	1
+tap comptability	0
+android version number	0
+fix your app	0
+tap that i	0
+recognize any tap	1
+be at android version	0
+retrieve detail	1
+old app	0
+app its say link	0
+download attachment	0
+nothing happen	0
+try install	0
+mobile number	0
+please change	0
+new update	0
+habit and routine	0
+good sinsce number	0
+back its less	0
+get bad evertime	0
+open mail	1
+unread email	0
+be unread email	0
+upgrade some month	0
+appname i	0
+google company	0
+keep stop	0
+camera onoff	0
+call anyone	1
+last option	0
+work and stick	0
+last option please	0
+camera onoff toggle	0
+video call anyone	1
+report the issue	0
+be my last option	0
+slow update	0
+everytime i	0
+load everytime	0
+load everytime i	0
+issue i	0
+start use	0
+ridiculous issue	0
+ridiculous issue i	0
+use password i	0
+change my password	0
+start use password	0
+be switch bank	0
+number try	0
+s9 i	0
+screen change	0
+phone but nothing	0
+smart switch i	0
+aolve my problem	0
+open the app	1
+phone but nothing change	0
+day i	0
+please sort	0
+last couple	0
+be different aswell	0
+couple of day	0
+recognition support	0
+facial recognition	1
+facial recognition support	1
+support after month	0
+kind of freak	0
+unpleasant appname	0
+frame or zoom	0
+look unpleasant appname	0
+case of video	0
+upload a video	1
+get sign	1
+use it b4	0
+time i	0
+reply button	1
+accessible area	0
+tap the option	0
+stop work	0
+have stop work	0
+ad pusher	0
+notification problem	1
+perennial notification	1
+perennial notification problem	0
+get their head	0
+think the google	0
+reinstall this app	1
+appname bank	0
+change your password	0
+phone number	0
+start ask	0
+old post	0
+friend and edit	0
+old post i	0
+try everything i	0
+have stop work	0
+device because i	0
+like the app	0
+password field	0
+extra char	0
+input your psswrd	1
+add extra char	0
+follow someone	1
+i quite	0
+app use	0
+number day	0
+be number	0
+be number day	0
+application work	0
+load anything	1
+blank screen	0
+work for year	0
+slow dif	0
+customer service	0
+experience i	0
+error access	0
+maximum number	0
+attempt and i	0
+fingerprint unlock method	1
+receive the error	0
+be my first attempt	0
+i update	0
+new update	0
+be pointless please	0
+remove the bar	1
+crash closing	0
+pay bill	1
+maintenance notification	0
+memory i	0
+new version	0
+short memory i	0
+be new version	0
+show an error	0
+phone appname	0
+recovery address	0
+sync i	0
+new recovery	0
+new recovery address	1
+problem without success	0
+put the day	1
+number star	0
+account balance	1
+app please	0
+view my account	1
+balance since i	0
+check your email send	0
+pay account	0
+different one	0
+app number	0
+creep app	0
+creep app number	0
+app number time	0
+get any filter	1
+creep app number time	0
+exchange server	0
+online banking	0
+exist online	0
+exist online banking	1
+add another account	1
+number star	0
+file phone	0
+attach file	0
+usb drive	0
+file phone storage	0
+attach file phone	1
+file from sdcard	0
+be no way	0
+attach file from sdcard	1
+fingerprint login	1
+fix thank	0
+maintenance department	0
+new password	0
+inta account	1
+easy access	0
+block my account	1
+secure and give	0
+number minute	0
+day today	0
+put message	0
+old app	0
+access wait ok	0
+be crazy i	0
+be put message	0
+try all day	0
+trouble try	0
+have trouble	0
+stupid app	0
+have trouble try	0
+job appname	0
+show man	0
+keep crash	0
+take a picture	1
+disappear i	0
+empty spam	1
+have disappear i	0
+open the app	0
+service charge	0
+app crash	0
+keep crash	0
+take a picture	1
+login error	1
+i try	0
+solve my issue	0
+login i try	1
+face this login	1
+appname filter	0
+happy person	0
+get a warning	0
+hell i	0
+message account	1
+want money	0
+account and i	0
+pay a rep	0
+samsung s10	0
+make use	0
+different camera	1
+stutter and pause	0
+separate lens support	0
+apple product classic	0
+implement separate lens	1
+make the experience	0
+phone app	0
+address management	1
+do something	0
+airplane mode	0
+same problem	0
+airplane mode nothing	0
+restart my phone	0
+update the app	0
+face book	0
+notification option	0
+come i	0
+multiple account	0
+app and i	0
+have multiple account	0
+be come i	0
+notification of email	1
+location request	0
+image insert	0
+inline image	1
+interface and icon	0
+inline image insert	0
+add inline image	1
+attach an image	1
+bank app	0
+voice message	0
+watch video	0
+hear voice	0
+hear voice message	1
+watch video story	1
+long time	0
+account i	0
+deactivate my account	1
+account for month	1
+be an error	0
+good update	0
+take number	0
+have use	0
+everytime i	0
+prompt password	1
+untrusted application	0
+application because everytime	0
+be a trash	0
+log in nad key	1
+many bug	0
+appname app	0
+type anything	1
+last month	0
+next one i	0
+open the email	1
+email file	1
+old email	0
+old email file	1
+make the app	0
+see anything	1
+app and i	0
+update the app	0
+screen appname	0
+white screen	0
+white screen appname	0
+screen appname stakeholder	0
+get white screen	0
+pay for garbage	0
+white screen appname stakeholder	0
+app use	0
+lock i	0
+next day	0
+new password i	0
+one time pin	0
+be your account	0
+be lock i	0
+open the app	1
+email address	0
+different phone	0
+address and password	0
+different phone number	0
+use my email	0
+problem because i	0
+be a problem	0
+developer blame	0
+notify developer	1
+developer blame user	0
+notify developer blame	0
+user for bug	0
+i hate	0
+look google	0
+customer get	0
+i uninstalle	0
+number app	0
+invite appear	0
+number app crash	0
+acceptdeny them number	0
+yes button nothing	0
+find some trouble	0
+keep turn	0
+get notification	1
+be be month	0
+button change	0
+have ton	0
+delete button	1
+spam and i	0
+delete button change	0
+delete unwanted junk	0
+problem because i	0
+software devt	0
+close the app	0
+new snap	0
+story call	0
+keep warp	0
+old kid	0
+prodigy omg i	0
+story call bunchie	0
+quit his football	0
+hide other story	1
+sentence on top	0
+hide this story	1
+warning i	0
+update slow	0
+thing and i	0
+client relationship loss	0
+pic from secure	0
+get a warning	0
+login credential	1
+login no option	1
+picture please	0
+camera issue	0
+welcome screen	1
+update i	0
+last update	0
+last update i	0
+unistalle and reinstall	0
+internet condition	0
+send email	1
+good internet	0
+good internet condition	0
+mail delivery problem	0
+lot of mail	0
+expect lot of mail	0
+update mess	0
+send message	1
+late update	0
+late update mess	0
+touch id	1
+use touch id	1
+browser at time	0
+use the browser	1
+snap chat	0
+pop error	0
+dark mode	1
+need dark mode	1
+s no theme	0
+filter i	0
+desktop site	0
+try reset	0
+serious frustration	0
+way and i	0
+atm ways i	0
+password reset process	1
+follow their password	1
+say account number	0
+keep say account	0
+give me serious frustration	0
+app redownloade	0
+delete app redownloade	0
+white screen	0
+number minute	0
+liberal propaganda	0
+phone restart	0
+stop update	0
+open snap	1
+promote business	0
+search option	1
+security issue	0
+upload picture	1
+let me upload picture	1
+stable product	0
+app developer	0
+note number	0
+number month	0
+be change	0
+profile picture	1
+number month i	0
+edit my appname	1
+change my profile picture	1
+say deliver	0
+number bite	0
+u permission	0
+open an email	1
+y insta	0
+number today	0
+pay credit	0
+update number	0
+update number today	0
+use fingerprint login	1
+pay my bill	1
+pay credit bill	1
+happen each time	0
+customer service	0
+keep crash	0
+crash and customer	0
+deposit my check	1
+wait til monday	0
+crash and customer service	0
+terrible time	0
+application i	0
+bad application	0
+bad application i	0
+app use	0
+i use	0
+important inquiry	0
+receive my message	1
+receive new email	1
+message like i	0
+type edit	0
+new update	0
+make it freeze	0
+touch any button	0
+problem update	0
+samsung unpack	0
+open appname	1
+same way	0
+same way appname	0
+samsung unpack samsung	0
+see my snap	1
+annoying black bar	0
+optimize the camera	0
+customer care	0
+contact customer	0
+last month	0
+month and i	0
+bad customer service	0
+customer care number	0
+contact customer care	0
+number g	0
+upload video	1
+long time	1
+time and i	0
+standby number g	0
+number g network	0
+app like whatsapp	0
+standby number g network	0
+phone start	0
+respond i	0
+appname i	0
+appname mail	0
+email thread	0
+slowness and nothing	0
+use appname i	0
+have appname mail	0
+mail since number	0
+open the app	0
+appname mail since number	0
+music option	1
+be problem	0
+available please	0
+solve my i	0
+text message	1
+phone freeze	0
+restart my phone	0
+app with medium	0
+launch the app	0
+login username	0
+username and password	1
+type my login	1
+waste alot	0
+old email	1
+email and poof	0
+have waste alot	0
+bunch of time	0
+spend a bunch	0
+app crash	0
+have access	0
+shady developer	0
+app please	0
+number i	0
+number gb	0
+pay my bill	1
+screen in order	0
+make the app	0
+payment amount	0
+spend number	0
+minimal payment	0
+minimal payment amount	0
+credit card charge	1
+spend number minute	0
+get the message	0
+freeze crash	0
+load freeze	0
+couple month	0
+freeze crash reload	0
+have my email	0
+load freeze crash	0
+phone for year	0
+rate ok	0
+navigation bar	0
+update give	0
+navigation bar i	0
+be a test	0
+see their picture	1
+video duet	1
+increase video	0
+shoot filter	0
+video duet option	1
+popularity of app	0
+increase the popularity	0
+block people	0
+email app	0
+law restrict	0
+time i	0
+past week	0
+android app	0
+instal app	0
+download this app	0
+time download	0
+download and instal	0
+old way	0
+clear all spam	1
+number post	0
+favor ios	0
+pin conversation	1
+more feature	0
+feature on ios	0
+make the quality	0
+pin conversation on adroid	1
+login credential	0
+recent update	0
+type the login	0
+lmao i	0
+great app	0
+outbox forever	0
+app i	0
+reason try	0
+leave appname	0
+pandemic reviewer	0
+time and money	0
+review my account	1
+covid19 pandemic reviewer	0
+leave this kind	0
+copy any address	1
+share post	0
+use share	0
+i report	0
+i report appname	0
+use share post	1
+post as story	0
+pasword becouse	0
+delete this app	0
+appname video	0
+fingerprint stop	1
+fingerprint stop work	1
+number day	0
+error i	0
+prompt an error	0
+nation like india	0
+action block	0
+telke me action	0
+navigation bar	0
+black navigation	0
+black navigation bar	0
+give full screen	0
+have request	0
+professional account	1
+convert my account	1
+mistake that i	0
+number spam	0
+crash every time	0
+tiktok wala	0
+prefer insta	0
+number line	0
+send email	1
+line of text	0
+inbox i	0
+see work	0
+email account	1
+segregate email account	1
+inbox from work	0
+get all mail	0
+app i	0
+have use	0
+email account	0
+close app i	0
+email account appname	0
+open my email	1
+say close app	0
+account for year	0
+have no problem	0
+lose product because i	0
+google phone	0
+post stuff	0
+total number	0
+see the number	1
+stop come	0
+appname app	0
+dark mode	1
+setting of appname	0
+app please	0
+great something	0
+fingerprint login	0
+fingerprint login option	1
+number gb	0
+network time	0
+say network	0
+say network time	0
+load say network	0
+youtube hehe	0
+undergo maintenance	0
+click ton	0
+want my picture	0
+ton of picture	0
+click ton of picture	0
+app crash	0
+do anything	0
+few day	0
+app crash ..	0
+send a snap	1
+email account	0
+old email	0
+old email account	0
+show my old email	0
+crash let	0
+get the app	0
+open without crash let	0
+maintenance activity	0
+undergo maintenance	0
+undergo maintenance activity	0
+previous picture	0
+thank appname	0
+make improvement	0
+second thank	0
+second thank appname	0
+appname for help	0
+think the app	0
+keep try	0
+card number	1
+multiple time	0
+emv debit card	0
+debit card number	1
+input my card	1
+login multiple time	0
+reset the password	1
+emv debit card number	1
+i delete	0
+phishe spam	1
+report phishe	1
+phishe block user	1
+add the option	0
+report phishe block user	1
+corona hit	0
+use appname	0
+suck please	0
+delete message	0
+update suck please	0
+have that option	1
+erase my delete message	1
+debit card	1
+register my debit	1
+keep stop	0
+frustrating sort	0
+face problem	0
+folder i	0
+take forever	0
+last month	0
+email into folder	1
+believe a company	0
+move email into folder	1
+app waste	0
+number day	0
+use appname	0
+reply email	1
+receive email	1
+multiple reply	1
+multiple reply email	1
+receive email i	1
+be multiple reply	1
+use another email	1
+long time	0
+play some game	1
+keep unsubscribe	0
+send button	1
+do anything	0
+late update	0
+depend and therefore	0
+option for iso	0
+set the datetime	1
+money transfer	1
+have problem	0
+problem in money	0
+have problem in money	0
+stop use	0
+content stop	0
+content stop use	0
+show content stop	1
+i cant	0
+save photo	1
+app work	0
+download i	0
+download the update	0
+business i	0
+stop run	0
+long i	0
+laptop please fix	0
+please fix asap	0
+check my email	1
+laptop please fix asap	0
+pende enrolment	0
+appname bank	0
+hundred time	0
+pende enrolment request	0
+enrol my account	1
+have a pende	0
+play video	1
+everytime i	0
+access i	0
+login screen	1
+app lag	0
+keep in mind	0
+search email	1
+email in inbox	1
+give a message	0
+search email in inbox	1
+outlook number	0
+android number	0
+app i	0
+login yesterday	1
+first page	0
+reinstall the application	0
+save option	0
+have save option	1
+note number	0
+login i reinstall	0
+number hour	0
+take picture	1
+knp klu	0
+verification code	0
+receive verification	1
+receive verification code	1
+rooted device	0
+follower i	0
+notification sound	1
+delete please	0
+appname notification	0
+appname notification sound	1
+delete please fix	0
+please sort	0
+total garbage	0
+snap location	1
+put people	0
+username and password	1
+wasted datum	0
+tool i	0
+branded tool	1
+guideline but i	0
+branded tool i	0
+use branded tool	1
+rule of guideline	0
+get a notification	0
+i. britishers	0
+download anymore	0
+load picture	1
+picture in email	1
+chat please	0
+send anything	0
+new update	0
+keep lag	0
+i try	0
+story or anyone	0
+save the message	1
+number mb	0
+update take	0
+deal google i	0
+mb of picture	0
+s the deal	0
+correct password	0
+email support	0
+enter the correct	0
+update i	0
+app update	0
+app update i	0
+upgrade the app	0
+google i	0
+say i	0
+stop work	0
+billing statement	0
+o r	0
+poor online	0
+view our billing	1
+statement for credit	0
+banking the app	0
+get crash	0
+number spoil	0
+other account	1
+connection i	0
+recent update	0
+email need	0
+have issue	0
+new email	1
+new email need	0
+email need help	0
+restart phone nothing	0
+new email need help	0
+need option	0
+login option	0
+be something	0
+new i	0
+use my fingerprint	1
+way of report	0
+find no way	0
+s icon	0
+total waste	0
+oops something	0
+say oops	0
+wrong please	0
+asap and i	0
+say oops something	0
+go wrong please	0
+time i	0
+top number	0
+selection for folder	1
+hit the button	1
+give me menu option	0
+receive any email	1
+internal storage	1
+google inbox	0
+load fix	0
+have people	0
+many people	0
+appname and i	0
+keep load fix	0
+email i	0
+second i	0
+inappropriate content i	0
+enter my email	1
+make an account	0
+do anything	0
+feature appname	0
+time struggle	0
+oop please	0
+say oop please	0
+number i	0
+work wort	0
+bank or maybank	0
+wort banking app	0
+work wort banking	0
+transaction as od	0
+reinstall the app	0
+r scrwe	0
+get post	1
+please try	0
+web page	0
+reset my password	1
+tick option	1
+hide people	1
+watch story	1
+uninstalle update	0
+problem please	0
