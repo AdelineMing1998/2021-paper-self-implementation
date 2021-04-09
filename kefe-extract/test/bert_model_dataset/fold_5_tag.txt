@@ -1,963 +1,963 @@
-number star	0
-inconvenient dev	0
-allow an option	0
-opt in screenshot fix	0
-google i	0
-take day	0
-bad app	0
-negative rating frame	0
-google your appname	0
-take infinite time	0
-app from google	0
-send a mail	1
-step backwards	0
-add label	1
-ten step	0
-ten step backwards	0
-inbox as appname	0
-update i	0
-dislike the update	0
-fingerprint login	1
-vpn connection	0
-keep recommend	0
-bloated piece	0
-piece of garbage	0
-texting friend	1
-i try	0
-say update message	0
-send a snap	1
-new update	0
-number reason	0
-storage issue	0
-long work	0
-number star	0
-anonymous message	1
-give a number	0
-igtv video	0
-other app	1
-be my network	0
-network because i	0
-download the app	1
-man i	0
-lagging man	0
-use appname	0
-change my phone	0
-lagging man i	0
-be use appname	0
-appname on iphone	0
-be this racism	0
-finger print	1
-email try	0
-finger print stop	1
-reset my password	0
-lot of time	0
-password a lot	0
-update drop	0
-update email	0
-say action	0
-discomfort i	0
-old chat	1
-problem number time	0
-show in notification	0
-have some trouble	0
-bar anymore	1
-username bar	0
-username bar anymore	1
-sister share	0
-oops something	0
-say oops something	0
-time i	0
-time i	0
-frustrating please	0
-user and sort	0
-past number day	0
-snap of anyone	0
-see any snap	1
-security purpose	0
-lock my card	1
-use the lock	0
-app ban	0
-email receive	1
-late update	0
-new email receive	1
-open my mail	1
-app for year	0
-make the app	0
-block my account	0
-instal the app	0
-be problem	0
-upload story	1
-message on screen	0
-flash a message	0
-open the app	1
-number week	0
-number i	0
-message like number	0
-delete the message	1
-appname account	1
-main appname	0
-rule and i	0
-main appname account	1
-violate their rule	0
-create new account	1
-nothing accept	0
-send message	1
-message or picture	0
-fix the bug	0
-change account	1
-video record	1
-faullty and scratchy	0
-video record faullty	0
-android the video	0
-do anything	0
-high volume	0
-update and i	0
-freeze my card	1
-volume in call	0
-slate change	0
-app confuse	0
-randomly crash	0
-terrible interface	0
-view other pic	1
-swipe the app	0
-app freeze	0
-update i	0
-log in page	1
-show the log	1
-get notification	1
-stop get	0
-stop get notification	1
-i stop get	0
-mode need	0
-dark mode	1
-dark mode need	1
-need since i	0
-have a pixel	0
-malware virus	0
-go stand	0
-be no window	0
-uninstalle and reinstall	0
-share post	0
-reason fix	0
-recent review	0
-apparent reason fix	0
-show message i	1
-online service	0
-life developer	0
-load i	1
-immediate attention	0
-update everytime i	0
-life developer fix	0
-be start college	0
-couple of minute	0
-take a couple	0
-get some email	1
-front camera	1
-switch the camera	1
-i become	0
-take forever	0
-receive mail	1
-attend my problem	0
-pati pag	0
-phone reboot	0
-error thay	0
-unwanted advert	0
-registration page	0
-pass step	0
-pass step number	0
-disappointing and frustrating	0
-late message	1
-come in late message	1
-year i	0
-appname email	0
-have appname email	0
-email for year	0
-get the app	1
-appname email for year	0
-everytime i	0
-password because everytime	0
-do nothing	0
-update i	0
-late update	0
-late update i	0
-account wala	0
-useful i	0
-new account wala	0
-be useful i	0
-link my new account	1
-number star	0
-dark mode	1
-be dark mode	1
-phone work	0
-load filter	1
-several time	0
-happen several time	0
-have a j6	0
-slow and most	0
-issue freezing	0
-load story	1
-last month	0
-constant issue freezing	0
-have constant issue	0
-take forever	0
-forever for app	0
-take forever for app	0
-single day	0
-be it anything	0
-view video send	0
-be a problem	0
-frequent crash	0
-open the app	1
-oops something	0
-say oops	0
-wrong please	0
-say oops something	0
-go wrong please	0
-keep say oops	0
-piece of garbage	0
-reset the password	0
-piece of s	0
-login a piece	1
-time i	0
-user experience	0
-right email	0
-email user experience	0
-load my email	1
-ton of space	0
-take a ton	0
-app work	0
-number time	0
-block spam	0
-feature and usability	0
-be number time	0
-be the feature	1
-transaction fail	0
-new update	0
-try unistalle	0
-mail i	0
-mail while type	0
-rollback all update	0
-pic i	1
-refreshed try	0
-profile vanish	0
-problem tweet appname	0
-vanish from timeline	0
-report the problem	0
-bank i	0
-phone s	0
-several time	0
-phone s browser	1
-reinstall several time	0
-do a force	0
-take forever	0
-open a message	1
-be work	0
-effect disappear	0
-useless app	0
-bug effect disappear	0
-app with alot	0
-much internet	0
-app but till	0
-problem asap	0
-theme fix	0
-change my theme	1
-dark theme fix	0
-update i	0
-date version	0
-keep freeze	0
-app stop	0
-date version appname	0
-try my email	0
-have problem connect	0
-login and password	1
-recognize my login	1
-use appname	0
-download information	1
-app suck	0
-download information need	0
-file share	0
-spam spam	1
-say look	0
-spam spam	1
-extra spam spam	0
-spam spam filter	1
-fill your inbox	0
-go use appname	0
-spam spam spam	0
-star if i	0
-give no star	0
-extra spam spam filter	1
-comment i	0
-have fun	0
-everytime i	0
-attachment i	0
-email attachment	1
-forum but nothing	0
-email attachment i	0
-try different method	0
-method that people	0
-suggest in different forum	0
-forum but nothing work	0
-update scorlle	0
-email i	0
-frustrating i	0
-same email multiple	0
-email multiple time	0
-check my email	1
-recieve any notification	1
-same email multiple time	0
-few minute	0
-okayyy i	0
-love appname	0
-new update	0
-appname but today	0
-send my streak	1
-have have number	0
-streak or message anyone	1
-wht happnd	0
-hate appname	0
-open plzz	1
-open plzz appname	0
-dea plzz checkkkkk	0
-i hate appname	0
-irritated and frm	0
-complaint call	0
-forgot password	1
-correct number	0
-call and email	0
-many complaint call	0
-solve this problem	0
-front camera	0
-please help	0
-iam video	1
-reset my password	0
-say no account	0
-update i	0
-recent update	0
-recent update i	0
-app coz i	0
-use the app	1
-next or skip	0
-email i	0
-have use	0
-several month	0
-app work fine	0
-app i	0
-have plenty	0
-see my mail	1
-plenty of mail	0
-have plenty of mail	0
-app freeze	0
-load app	1
-update app	0
-app freeze screen	0
-load app freeze	0
-load many complain	0
-end user	0
-end user agreement	1
-get a copy	0
-zero i	0
-compromise i	0
-wish i	0
-be compromise i	0
-hold from number	0
-get ahold of anyone	0
-everytime i	0
-update this app	0
-mail counter	0
-friend s	0
-old feature	0
-friend s activity	1
-sponsor story	0
-irritating i	0
-enough ad	0
-story and accont	0
-have enough ad	0
-ad from blogger	0
-remove account	1
-remove account option	1
-sign out option	1
-be no sign	0
-zoom button	0
-check mail	1
-new email	1
-massive zoom button	0
-detail each time	0
-card transaction	1
-login i	0
-password ang login	0
-screen flicker	0
-account waste	0
-make change	1
-empty apology	0
-message customer service	0
-waste of time	0
-rate number	0
-use outlook	0
-dark mode	1
-oreo and i	0
-rate number star	0
-make dark mode	1
-use this app	0
-app and rate number	0
-android q.	0
-work on android q.	0
-app update	0
-uninstalle reinstall	0
-same result	0
-login screen i	0
-verification code	1
-make an account	1
-way i	0
-portal reset	0
-portal reset password	1
-reset my password	1
-be no way	0
-much error	0
-appname business	0
-email sick	0
-open my appname	1
-email app	0
-login detail	0
-login detail twice	1
-detail twice everytime	0
-enter login detail	1
-app on android	0
-use this app	0
-login detail twice everytime	0
-see everything	0
-use a pc	0
-update f.	0
-love appname	0
-late update	0
-late update f.	0
-test your app	0
-good app	0
-show send message	1
-teller lie	0
-everytime i	0
-be raise	0
-raise the volume	1
-email return	0
-mean wow	0
-delete email	0
-delete email return	0
-length email etc	0
-see moderate length	0
-be a deal	0
-moderate length email etc	0
-phone glitch	1
-open receive	0
-open receive notification	1
-make my phone	1
-brokerage account	0
-trade i	1
-poor brokerage	0
-appname brokerage account	0
-use appname brokerage	0
-update i	0
-compose mail	1
-recent update	0
-recent update i	0
-update i	0
-have my notification	1
-recieve an email	0
-do anything	0
-phone software	0
-everytime i	0
-happen everytime	0
-happen everytime i	0
-click an email	1
-night mode	1
-think night	0
-think night mode	1
-open app	0
-new theme	1
-email app	0
-use image	1
-image in signature	1
-use image in signature	1
-take forever	0
-correct asap	0
-need correct asap	0
-few day	0
-day after update	0
-way email	0
-march start	0
-add snap	1
-week insta	0
-take forever	0
-few week	0
-few week insta	0
-connection s perfect	0
-fix your app	0
-beem screwy message	1
-location tag	1
-appname i	0
-frustrating i	0
-say wrong number	0
-account in appname	0
-login my other account	1
-music feature	1
-connection please	0
-take year	0
-wifi connection	0
-wifi connection please	0
-number i	0
-open file	1
-much money	0
-android number i	0
-give a damn	0
-number junk	0
-phone nr	0
-give error	0
-sms yeah	0
-refresh my feed	1
-confirmation page	0
-easy way	0
-record of receipt	1
-take a screenshot	0
-fingerprint login	1
-bad fingerprint	0
-bad fingerprint login	1
-few hour	0
-update the app	1
-see message	1
-email client	0
-send a message	0
-speed hell	0
-easy way	0
-mail option	1
-make an delete	0
-star rating	0
-post anything	0
-user name	0
-exist user	0
-name and password	0
-exist user name	0
-accept exist user	1
-password on android	1
-download any attachment	1
-moto z2	0
-have resort	0
-few month	0
-few month i	0
-moto z2 force	0
-have the moto	0
-prepaid phone	0
-please fix	0
-star stay	0
-random account	0
-irrelevant content	0
-basus and i	0
-i share stuff	0
-star stay cuz	0
-put irrelevant content	0
-have random account	0
-account and group i	0
-be work	0
-work for month	0
-be work for month	0
-appname account	1
-i forget	0
-password and recovery	0
-i forget password	0
-recovery mail i	0
-password and recovery mail	0
-new update	0
-need an update	0
-time i	0
-map i	0
-disable map	1
-disable map i	1
-let me disable map	1
-access i	1
-re install	0
-internet connection problem	1
-option mess	0
-printing option	1
-laughable group	0
-option link application	0
-use your brain	0
-printing option mess	0
-group of developer	0
-activate the finger	0
-number number	0
-august number	0
-august number number	0
-have a problem	0
-screen try	0
-star jct	0
-oops something	0
-irritating message	0
-star jct coz	0
-put my password	0
-go wrong try	0
-password while sign	0
-share photo	1
-content i	0
-course ad load	0
-post for community	0
-have a post	0
-be the problem	0
-open the app	1
-online payment	0
-get online defeat	0
-pay all i	0
-update i	0
-mail color	1
-unread mail	0
-unread mail color	1
-read and unread	0
-nothing i	0
-do nothing	0
-do nothing i	0
-recieve any email	1
-app appname	0
-email please	0
-delete email	1
-great app	0
-delete email please	1
-transfer money	1
-other bank	1
-application appname	0
-app and device	0
-say every time	0
-multiple select	1
-select and delete	1
-be no option	0
-photo i	0
-white page	0
-nothing but lag	0
-online banking	0
-100th time	0
-online banking work	0
-link my online	1
-reset the password	0
-brother try	0
-i try	0
-app store	0
-downgrade version	0
-offline and need	0
-switch account	1
-dear appname	0
-account without log	0
-switch account without log	1
-garbage i	0
-hot garbage	0
-password and try	0
-hot garbage i	0
-reset my password	0
-be a load	0
-terrible i	0
-consise instruction	0
-storage email	0
-remove content	0
-many thing	0
-privacy or control	0
-app permission hahaha	0
-storage email people	0
-read confidentail information	0
-sin i	0
-app everytime	0
-do i	0
-other way	0
-app everytime i	0
-secure our account	1
-waste of time	0
-reinstall the app	0
-ceo i	0
-i guess	0
-manual option	0
-process my request	0
-option in birthday	0
-fingerprint sign	0
-i try	0
-sign in i	0
-get an error	0
-app i	0
-get return	0
-many month	0
-update my residency	0
-piece of mail	0
-hour consume	0
-email signature	0
-proper email	0
-proper email signature	0
-email signature option	1
-appname for android	0
-proper email signature option	1
-be try	0
-good app	0
-keep my streak	0
-take a picture	0
-hell i	0
-get my appname	1
-password i	0
-stop work	0
-have stop work	0
-dms from anyone	1
-receive dms from anyone	1
-error i	0
-amazing application	0
-application but i	0
-have an error	0
-username or password	1
-type my username	1
-make a payment	1
-everytime i	0
-keep shut	0
-constant closing	0
-use cause i	0
-change the unreliability	0
-have time	0
-app alwys	0
-stupid app	1
-stupid app alwys	0
-resigter stupid app	1
-app till	0
-upload picture	1
-close the app	0
-account i	0
-fingerprint sign	1
-be number	0
-deactivate fingerprint	0
-discover and wells	0
-deactivate fingerprint sign	0
-be number time	0
-fargo be number	0
-sign in discover	0
-week i	0
-white pop	1
-update my app	0
-screen appear block	0
-offer no method	0
-be like groundhog day	0
-update use	0
-food picture	1
-slimme world	0
-account and picture	1
-slimme world account	0
-be my food	0
-post any picture	1
-send email	1
-double send	0
-double send email	0
-send email samsung	1
-note android mix	0
-double send email samsung	0
-appname account	1
-show email	1
-good app	0
-non google account	1
-appname account work	0
-app i	0
-try reinstall	0
-receive notification	1
-stop receive notification	0
-appname hang	0
-nokia number	0
-nokia number i	0
-phone everytime i	0
-get new phone	0
-restart the phone	0
-ok i	0
-constant download	0
-constant download i	0
-get my account	0
-use the appname	0
-error yesterday	0
-be lock	0
-first time	0
-yesterday and today	0
-first time log	0
-mrn provider please	0
-input my password	1
-log in attempt	0
-send a codepin	1
-exceed log in attempt	0
-be my first time	0
-account use	0
-send prompt	0
-app and i	0
-send a message	1
-improve appname	0
-number conceivable	0
-try download	0
-last month	0
-point i	0
-snap map	0
-favorite app	0
-keep fix stuff	0
-open a chat	1
-be my favorite app	0
-work and appname	0
-bank account	0
-first time	0
-exceed my attempt	0
-bad update	0
-experience of yahoomail	0
-delete a mail	1
-quickdeposit portion	0
-take picture	1
-deposit the check	1
-keep freeze	0
-keep change	0
-appname mail	1
-appname mail return	0
-keep change thing	0
-lot of issue	0
-have a lot	0
-filter show	0
-snap filter	1
-snap filter show	0
-picture click time	0
-wrong picture click time	0
-use fingerprint	1
-remember login	1
-single time	0
-app require reinput	0
-point in use	0
-be no point	0
-everything bring	0
-action block	0
-be action	0
-fall appart	0
-be action block	0
-be fall appart	0
-queue hesitate	0
-send google	1
-i try	0
-poor useless app	0
-send a file	1
-many issue	0
-number star	0
-friend post	1
-like post	0
-big company	0
-app on google	0
-get this app	0
-s20 please	0
-work use	0
-samsung s20	0
-samsung s20 please	0
-app because touchscreen	1
-use the app	0
-hate hate	0
-new appname	0
-fomat hate hate	0
-get my mail	1
-update so i	0
-phone thrice	0
-care edit	0
-great app	0
-same thing oops	0
-thing oops something	0
-put my email	1
-go wrong please	0
-restart the phone	0
-same thing oops something	0
-mail app	0
-useless piece	0
-app i	0
-be use	0
-open my app	1
-phone try	0
-follower interact	0
-poor move	0
-move by appname	0
-view the number	1
-home screen	0
-open anymore	1
-be open anymore	1
-get no response	0
-work week	0
-page try	0
-uninstall reinstall	0
-mobile page	0
-mobile page try	0
-appname mobile page	1
-hole message	0
-slide someone	0
-s message	0
-open the hole	0
-payment result	0
-update information	1
-information of payment	1
-update information of payment	1
-send anything	1
-fail i	0
-reset my password	0
-login fail i	0
-uninstalle an reinstall	0
-work everytime	0
-use appname	0
-glitch or bug	0
-stop work everytime	0
-be use appname	0
-bug that i	0
-experience any glitch	0
-hide option	1
-have mess	0
-new layout	0
-grant storage	0
-single email	1
-wrong and i	0
-apple user	0
-number year	0
-crash i	0
-check my mail	1
-mail as i	0
-open any mail	1
-be work from home	0
-dark theme	1
-have dark theme	1
-late update	0
-keep on shut	0
-help the mail	1
-ooops something	0
-mine feel	0
-waste of time	0
-sms verification	1
-try several time	0
-use the app	0
-get block	0
-be hope	0
-same problem	0
-release a patch	0
-give notification	1
-number hr	0
-take number	0
-take number hr	0
-time i	0
-new password	1
-change my password	1
-couple of month	0
-card number	0
-put my ssn	0
-app please	0
-stream i	0
-annoying creator	0
-couple hour	0
-number week	0
-keep say	0
-appname work	0
-time pin	1
-lock i	0
-be lock i	0
-have a trouble	0
-message news	0
-number day	0
-play store	0
-use account	0
-have access	0
-i log	0
-email and password	0
-use account key	1
-use my password	1
-log in use	1
-click the number	0
-pay for tech support	0
-take forever	0
-appname i	0
-app appname	0
+2	number star
+2	inconvenient dev
+2	allow an option
+2	opt in screenshot fix
+2	google i
+2	take day
+2	bad app
+2	negative rating frame
+2	google your appname
+2	take infinite time
+2	app from google
+1	send a mail
+2	step backwards
+1	add label
+2	ten step
+2	ten step backwards
+2	inbox as appname
+2	update i
+2	dislike the update
+1	fingerprint login
+2	vpn connection
+2	keep recommend
+2	bloated piece
+2	piece of garbage
+1	texting friend
+2	i try
+2	say update message
+1	send a snap
+2	new update
+2	number reason
+2	storage issue
+2	long work
+2	number star
+1	anonymous message
+2	give a number
+2	igtv video
+1	other app
+2	be my network
+2	network because i
+1	download the app
+2	man i
+2	lagging man
+2	use appname
+2	change my phone
+2	lagging man i
+2	be use appname
+2	appname on iphone
+2	be this racism
+1	finger print
+2	email try
+1	finger print stop
+2	reset my password
+2	lot of time
+2	password a lot
+2	update drop
+2	update email
+2	say action
+2	discomfort i
+1	old chat
+2	problem number time
+2	show in notification
+2	have some trouble
+1	bar anymore
+2	username bar
+1	username bar anymore
+2	sister share
+2	oops something
+2	say oops something
+2	time i
+2	time i
+2	frustrating please
+2	user and sort
+2	past number day
+2	snap of anyone
+1	see any snap
+2	security purpose
+1	lock my card
+2	use the lock
+2	app ban
+1	email receive
+2	late update
+1	new email receive
+1	open my mail
+2	app for year
+2	make the app
+2	block my account
+2	instal the app
+2	be problem
+1	upload story
+2	message on screen
+2	flash a message
+1	open the app
+2	number week
+2	number i
+2	message like number
+1	delete the message
+1	appname account
+2	main appname
+2	rule and i
+1	main appname account
+2	violate their rule
+1	create new account
+2	nothing accept
+1	send message
+2	message or picture
+2	fix the bug
+1	change account
+1	video record
+2	faullty and scratchy
+2	video record faullty
+2	android the video
+2	do anything
+2	high volume
+2	update and i
+1	freeze my card
+2	volume in call
+2	slate change
+2	app confuse
+2	randomly crash
+2	terrible interface
+1	view other pic
+2	swipe the app
+2	app freeze
+2	update i
+1	log in page
+1	show the log
+1	get notification
+2	stop get
+1	stop get notification
+2	i stop get
+2	mode need
+1	dark mode
+1	dark mode need
+2	need since i
+2	have a pixel
+2	malware virus
+2	go stand
+2	be no window
+2	uninstalle and reinstall
+2	share post
+2	reason fix
+2	recent review
+2	apparent reason fix
+1	show message i
+2	online service
+2	life developer
+1	load i
+2	immediate attention
+2	update everytime i
+2	life developer fix
+2	be start college
+2	couple of minute
+2	take a couple
+1	get some email
+1	front camera
+1	switch the camera
+2	i become
+2	take forever
+1	receive mail
+2	attend my problem
+2	pati pag
+2	phone reboot
+2	error thay
+2	unwanted advert
+2	registration page
+2	pass step
+2	pass step number
+2	disappointing and frustrating
+1	late message
+1	come in late message
+2	year i
+2	appname email
+2	have appname email
+2	email for year
+1	get the app
+2	appname email for year
+2	everytime i
+2	password because everytime
+2	do nothing
+2	update i
+2	late update
+2	late update i
+2	account wala
+2	useful i
+2	new account wala
+2	be useful i
+1	link my new account
+2	number star
+1	dark mode
+1	be dark mode
+2	phone work
+1	load filter
+2	several time
+2	happen several time
+2	have a j6
+2	slow and most
+2	issue freezing
+1	load story
+2	last month
+2	constant issue freezing
+2	have constant issue
+2	take forever
+2	forever for app
+2	take forever for app
+2	single day
+2	be it anything
+2	view video send
+2	be a problem
+2	frequent crash
+1	open the app
+2	oops something
+2	say oops
+2	wrong please
+2	say oops something
+2	go wrong please
+2	keep say oops
+2	piece of garbage
+2	reset the password
+2	piece of s
+1	login a piece
+2	time i
+2	user experience
+2	right email
+2	email user experience
+1	load my email
+2	ton of space
+2	take a ton
+2	app work
+2	number time
+2	block spam
+2	feature and usability
+2	be number time
+1	be the feature
+2	transaction fail
+2	new update
+2	try unistalle
+2	mail i
+2	mail while type
+2	rollback all update
+1	pic i
+2	refreshed try
+2	profile vanish
+2	problem tweet appname
+2	vanish from timeline
+2	report the problem
+2	bank i
+2	phone s
+2	several time
+1	phone s browser
+2	reinstall several time
+2	do a force
+2	take forever
+1	open a message
+2	be work
+2	effect disappear
+2	useless app
+2	bug effect disappear
+2	app with alot
+2	much internet
+2	app but till
+2	problem asap
+2	theme fix
+1	change my theme
+2	dark theme fix
+2	update i
+2	date version
+2	keep freeze
+2	app stop
+2	date version appname
+2	try my email
+2	have problem connect
+1	login and password
+1	recognize my login
+2	use appname
+1	download information
+2	app suck
+2	download information need
+2	file share
+1	spam spam
+2	say look
+1	spam spam
+2	extra spam spam
+1	spam spam filter
+2	fill your inbox
+2	go use appname
+2	spam spam spam
+2	star if i
+2	give no star
+1	extra spam spam filter
+2	comment i
+2	have fun
+2	everytime i
+2	attachment i
+1	email attachment
+2	forum but nothing
+2	email attachment i
+2	try different method
+2	method that people
+2	suggest in different forum
+2	forum but nothing work
+2	update scorlle
+2	email i
+2	frustrating i
+2	same email multiple
+2	email multiple time
+1	check my email
+1	recieve any notification
+2	same email multiple time
+2	few minute
+2	okayyy i
+2	love appname
+2	new update
+2	appname but today
+1	send my streak
+2	have have number
+1	streak or message anyone
+2	wht happnd
+2	hate appname
+1	open plzz
+2	open plzz appname
+2	dea plzz checkkkkk
+2	i hate appname
+2	irritated and frm
+2	complaint call
+1	forgot password
+2	correct number
+2	call and email
+2	many complaint call
+2	solve this problem
+2	front camera
+2	please help
+1	iam video
+2	reset my password
+2	say no account
+2	update i
+2	recent update
+2	recent update i
+2	app coz i
+1	use the app
+2	next or skip
+2	email i
+2	have use
+2	several month
+2	app work fine
+2	app i
+2	have plenty
+1	see my mail
+2	plenty of mail
+2	have plenty of mail
+2	app freeze
+1	load app
+2	update app
+2	app freeze screen
+2	load app freeze
+2	load many complain
+2	end user
+1	end user agreement
+2	get a copy
+2	zero i
+2	compromise i
+2	wish i
+2	be compromise i
+2	hold from number
+2	get ahold of anyone
+2	everytime i
+2	update this app
+2	mail counter
+2	friend s
+2	old feature
+1	friend s activity
+2	sponsor story
+2	irritating i
+2	enough ad
+2	story and accont
+2	have enough ad
+2	ad from blogger
+1	remove account
+1	remove account option
+1	sign out option
+2	be no sign
+2	zoom button
+1	check mail
+1	new email
+2	massive zoom button
+2	detail each time
+1	card transaction
+2	login i
+2	password ang login
+2	screen flicker
+2	account waste
+1	make change
+2	empty apology
+2	message customer service
+2	waste of time
+2	rate number
+2	use outlook
+1	dark mode
+2	oreo and i
+2	rate number star
+1	make dark mode
+2	use this app
+2	app and rate number
+2	android q.
+2	work on android q.
+2	app update
+2	uninstalle reinstall
+2	same result
+2	login screen i
+1	verification code
+1	make an account
+2	way i
+2	portal reset
+1	portal reset password
+1	reset my password
+2	be no way
+2	much error
+2	appname business
+2	email sick
+1	open my appname
+2	email app
+2	login detail
+1	login detail twice
+2	detail twice everytime
+1	enter login detail
+2	app on android
+2	use this app
+2	login detail twice everytime
+2	see everything
+2	use a pc
+2	update f.
+2	love appname
+2	late update
+2	late update f.
+2	test your app
+2	good app
+1	show send message
+2	teller lie
+2	everytime i
+2	be raise
+1	raise the volume
+2	email return
+2	mean wow
+2	delete email
+2	delete email return
+2	length email etc
+2	see moderate length
+2	be a deal
+2	moderate length email etc
+1	phone glitch
+2	open receive
+1	open receive notification
+1	make my phone
+2	brokerage account
+1	trade i
+2	poor brokerage
+2	appname brokerage account
+2	use appname brokerage
+2	update i
+1	compose mail
+2	recent update
+2	recent update i
+2	update i
+1	have my notification
+2	recieve an email
+2	do anything
+2	phone software
+2	everytime i
+2	happen everytime
+2	happen everytime i
+1	click an email
+1	night mode
+2	think night
+1	think night mode
+2	open app
+1	new theme
+2	email app
+1	use image
+1	image in signature
+1	use image in signature
+2	take forever
+2	correct asap
+2	need correct asap
+2	few day
+2	day after update
+2	way email
+2	march start
+1	add snap
+2	week insta
+2	take forever
+2	few week
+2	few week insta
+2	connection s perfect
+2	fix your app
+1	beem screwy message
+1	location tag
+2	appname i
+2	frustrating i
+2	say wrong number
+2	account in appname
+1	login my other account
+1	music feature
+2	connection please
+2	take year
+2	wifi connection
+2	wifi connection please
+2	number i
+1	open file
+2	much money
+2	android number i
+2	give a damn
+2	number junk
+2	phone nr
+2	give error
+2	sms yeah
+1	refresh my feed
+2	confirmation page
+2	easy way
+1	record of receipt
+2	take a screenshot
+1	fingerprint login
+2	bad fingerprint
+1	bad fingerprint login
+2	few hour
+1	update the app
+1	see message
+2	email client
+2	send a message
+2	speed hell
+2	easy way
+1	mail option
+2	make an delete
+2	star rating
+2	post anything
+2	user name
+2	exist user
+2	name and password
+2	exist user name
+1	accept exist user
+1	password on android
+1	download any attachment
+2	moto z2
+2	have resort
+2	few month
+2	few month i
+2	moto z2 force
+2	have the moto
+2	prepaid phone
+2	please fix
+2	star stay
+2	random account
+2	irrelevant content
+2	basus and i
+2	i share stuff
+2	star stay cuz
+2	put irrelevant content
+2	have random account
+2	account and group i
+2	be work
+2	work for month
+2	be work for month
+1	appname account
+2	i forget
+2	password and recovery
+2	i forget password
+2	recovery mail i
+2	password and recovery mail
+2	new update
+2	need an update
+2	time i
+2	map i
+1	disable map
+1	disable map i
+1	let me disable map
+1	access i
+2	re install
+1	internet connection problem
+2	option mess
+1	printing option
+2	laughable group
+2	option link application
+2	use your brain
+2	printing option mess
+2	group of developer
+2	activate the finger
+2	number number
+2	august number
+2	august number number
+2	have a problem
+2	screen try
+2	star jct
+2	oops something
+2	irritating message
+2	star jct coz
+2	put my password
+2	go wrong try
+2	password while sign
+1	share photo
+2	content i
+2	course ad load
+2	post for community
+2	have a post
+2	be the problem
+1	open the app
+2	online payment
+2	get online defeat
+2	pay all i
+2	update i
+1	mail color
+2	unread mail
+1	unread mail color
+2	read and unread
+2	nothing i
+2	do nothing
+2	do nothing i
+1	recieve any email
+2	app appname
+2	email please
+1	delete email
+2	great app
+1	delete email please
+1	transfer money
+1	other bank
+2	application appname
+2	app and device
+2	say every time
+1	multiple select
+1	select and delete
+2	be no option
+2	photo i
+2	white page
+2	nothing but lag
+2	online banking
+2	100th time
+2	online banking work
+1	link my online
+2	reset the password
+2	brother try
+2	i try
+2	app store
+2	downgrade version
+2	offline and need
+1	switch account
+2	dear appname
+2	account without log
+1	switch account without log
+2	garbage i
+2	hot garbage
+2	password and try
+2	hot garbage i
+2	reset my password
+2	be a load
+2	terrible i
+2	consise instruction
+2	storage email
+2	remove content
+2	many thing
+2	privacy or control
+2	app permission hahaha
+2	storage email people
+2	read confidentail information
+2	sin i
+2	app everytime
+2	do i
+2	other way
+2	app everytime i
+1	secure our account
+2	waste of time
+2	reinstall the app
+2	ceo i
+2	i guess
+2	manual option
+2	process my request
+2	option in birthday
+2	fingerprint sign
+2	i try
+2	sign in i
+2	get an error
+2	app i
+2	get return
+2	many month
+2	update my residency
+2	piece of mail
+2	hour consume
+2	email signature
+2	proper email
+2	proper email signature
+1	email signature option
+2	appname for android
+1	proper email signature option
+2	be try
+2	good app
+2	keep my streak
+2	take a picture
+2	hell i
+1	get my appname
+2	password i
+2	stop work
+2	have stop work
+1	dms from anyone
+1	receive dms from anyone
+2	error i
+2	amazing application
+2	application but i
+2	have an error
+1	username or password
+1	type my username
+1	make a payment
+2	everytime i
+2	keep shut
+2	constant closing
+2	use cause i
+2	change the unreliability
+2	have time
+2	app alwys
+1	stupid app
+2	stupid app alwys
+1	resigter stupid app
+2	app till
+1	upload picture
+2	close the app
+2	account i
+1	fingerprint sign
+2	be number
+2	deactivate fingerprint
+2	discover and wells
+2	deactivate fingerprint sign
+2	be number time
+2	fargo be number
+2	sign in discover
+2	week i
+1	white pop
+2	update my app
+2	screen appear block
+2	offer no method
+2	be like groundhog day
+2	update use
+1	food picture
+2	slimme world
+1	account and picture
+2	slimme world account
+2	be my food
+1	post any picture
+1	send email
+2	double send
+2	double send email
+1	send email samsung
+2	note android mix
+2	double send email samsung
+1	appname account
+1	show email
+2	good app
+1	non google account
+2	appname account work
+2	app i
+2	try reinstall
+1	receive notification
+2	stop receive notification
+2	appname hang
+2	nokia number
+2	nokia number i
+2	phone everytime i
+2	get new phone
+2	restart the phone
+2	ok i
+2	constant download
+2	constant download i
+2	get my account
+2	use the appname
+2	error yesterday
+2	be lock
+2	first time
+2	yesterday and today
+2	first time log
+2	mrn provider please
+1	input my password
+2	log in attempt
+1	send a codepin
+2	exceed log in attempt
+2	be my first time
+2	account use
+2	send prompt
+2	app and i
+1	send a message
+2	improve appname
+2	number conceivable
+2	try download
+2	last month
+2	point i
+2	snap map
+2	favorite app
+2	keep fix stuff
+1	open a chat
+2	be my favorite app
+2	work and appname
+2	bank account
+2	first time
+2	exceed my attempt
+2	bad update
+2	experience of yahoomail
+1	delete a mail
+2	quickdeposit portion
+1	take picture
+1	deposit the check
+2	keep freeze
+2	keep change
+1	appname mail
+2	appname mail return
+2	keep change thing
+2	lot of issue
+2	have a lot
+2	filter show
+1	snap filter
+2	snap filter show
+2	picture click time
+2	wrong picture click time
+1	use fingerprint
+1	remember login
+2	single time
+2	app require reinput
+2	point in use
+2	be no point
+2	everything bring
+2	action block
+2	be action
+2	fall appart
+2	be action block
+2	be fall appart
+2	queue hesitate
+1	send google
+2	i try
+2	poor useless app
+1	send a file
+2	many issue
+2	number star
+1	friend post
+2	like post
+2	big company
+2	app on google
+2	get this app
+2	s20 please
+2	work use
+2	samsung s20
+2	samsung s20 please
+1	app because touchscreen
+2	use the app
+2	hate hate
+2	new appname
+2	fomat hate hate
+1	get my mail
+2	update so i
+2	phone thrice
+2	care edit
+2	great app
+2	same thing oops
+2	thing oops something
+1	put my email
+2	go wrong please
+2	restart the phone
+2	same thing oops something
+2	mail app
+2	useless piece
+2	app i
+2	be use
+1	open my app
+2	phone try
+2	follower interact
+2	poor move
+2	move by appname
+1	view the number
+2	home screen
+1	open anymore
+1	be open anymore
+2	get no response
+2	work week
+2	page try
+2	uninstall reinstall
+2	mobile page
+2	mobile page try
+1	appname mobile page
+2	hole message
+2	slide someone
+2	s message
+2	open the hole
+2	payment result
+1	update information
+1	information of payment
+1	update information of payment
+1	send anything
+2	fail i
+2	reset my password
+2	login fail i
+2	uninstalle an reinstall
+2	work everytime
+2	use appname
+2	glitch or bug
+2	stop work everytime
+2	be use appname
+2	bug that i
+2	experience any glitch
+1	hide option
+2	have mess
+2	new layout
+2	grant storage
+1	single email
+2	wrong and i
+2	apple user
+2	number year
+2	crash i
+1	check my mail
+2	mail as i
+1	open any mail
+2	be work from home
+1	dark theme
+1	have dark theme
+2	late update
+2	keep on shut
+1	help the mail
+2	ooops something
+2	mine feel
+2	waste of time
+1	sms verification
+2	try several time
+2	use the app
+2	get block
+2	be hope
+2	same problem
+2	release a patch
+1	give notification
+2	number hr
+2	take number
+2	take number hr
+2	time i
+1	new password
+1	change my password
+2	couple of month
+2	card number
+2	put my ssn
+2	app please
+2	stream i
+2	annoying creator
+2	couple hour
+2	number week
+2	keep say
+2	appname work
+1	time pin
+2	lock i
+2	be lock i
+2	have a trouble
+2	message news
+2	number day
+2	play store
+2	use account
+2	have access
+2	i log
+2	email and password
+1	use account key
+1	use my password
+1	log in use
+2	click the number
+2	pay for tech support
+2	take forever
+2	appname i
+2	app appname

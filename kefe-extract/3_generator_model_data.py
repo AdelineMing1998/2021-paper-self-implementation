@@ -10,7 +10,7 @@ def generate_dataset(candidate_file_path, label_file_path):
     label_file_lines = open(label_file_path, encoding="utf-8").readlines()
     print("[INFO] Start to manage file " + candidate_file_path.strip().split("/")[1])
     # write_file = open("train/bert_model_dataset/fold_" + candidate_file_path.strip().split("/")[2].split("_")[1] + "_tag.txt", "w", encoding="utf-8")
-    # write_file = open("test/bert_model_dataset/fold_" + candidate_file_path.strip().split("/")[2].split("_")[1] + "_tag.txt", "w", encoding="utf-8")
+    write_file = open("test/bert_model_dataset/fold_" + candidate_file_path.strip().split("/")[2].split("_")[1] + "_tag.txt", "w", encoding="utf-8")
 
     # write_file = open("train/candidate_tag_list/fold_" + candidate_file_path.strip().split("/")[2].split("_")[1] + "_tag.txt", "w", encoding="utf-8")
     # write_file = open("test/candidate_tag_list/fold_" + candidate_file_path.strip().split("/")[2].split("_")[1] + "_tag.txt", "w", encoding="utf-8")
@@ -24,17 +24,23 @@ def generate_dataset(candidate_file_path, label_file_path):
             label_list = get_label_list_method(label_file_lines[i])
             tag_list = compare_candidate_feature(candidate_list, label_list)
             # 按行写入匹配文件，方便后续的复原
-            write_file.write(str(candidate_list) + "\t" + str(tag_list) + "\n")
-            # for j in range(0, len(tag_list)):
-                # 写入所有文本
+            # write_file.write(str(candidate_list) + "\t" + str(tag_list) + "\n")
+            for j in range(0, len(tag_list)):
+                # 1. 写入所有文本
                 # write_file.write(str(tag_list[j]) + "\t" + str(candidate_list[j]) + "\n")
                 # write_file.write(str(candidate_list[j]) + "\t" + str(tag_list[j]) + "\n")
-                # 只写入正文本
+                # 2. 只写入正文本
                 # if tag_list[j] == 1:
                 #     # write_file.write(str(tag_list[j]) + "\t" + str(candidate_list[j]) + "\n")
                 #     write_file.write(str(candidate_list[j]) + "\t" + str(tag_list[j]) + "\n")
                 # else:
                 #     pass
+                # 3. 只写入正文本正例样本为1，负例样本为2
+                if tag_list[j] == 1:
+                    write_file.write(str(tag_list[j]) + "\t" + str(candidate_list[j]) + "\n")
+                    # write_file.write(str(candidate_list[j]) + "\t" + str(tag_list[j]) + "\n")
+                else:
+                    write_file.write(str(tag_list[j]+2) + "\t" + str(candidate_list[j]) + "\n")
     write_file.close()
     print("[END] Finish writing file " + str(write_file))
 

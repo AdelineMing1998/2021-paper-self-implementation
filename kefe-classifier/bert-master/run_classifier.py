@@ -201,13 +201,13 @@ class DataProcessor(object):
       lines = []
       for line in reader:
           lines.append(line)
+
       return lines
 
 
 class ExtractProcessor(DataProcessor):
    def __init__(self):
-      #  self.labels = ['1', '2']
-      self.labels = ['1', '0']
+       self.labels = ['1', '2']
 
    def get_train_examples(self, data_dir):
        return self._create_examples(
@@ -233,79 +233,8 @@ class ExtractProcessor(DataProcessor):
            label = tokenization.convert_to_unicode(line[0])
            examples.append(
                InputExample(guid=guid, text_a=text_a, text_b=None, label=label))
+       print(len(examples))
        return examples
-
-
-class MatchProcessor(DataProcessor):
-    def get_train_examples(self, data_dir):
-        file_path = os.path.join(data_dir, 'train.tsv')
-        with open(file_path, 'r') as f:
-            reader = f.readlines()
-        examples = []
-        for index, line in enumerate(reader):
-            guid = 'train-%d' % index
-            split_line = line.strip().split("\t")
-            print(split_line)
-            text_a = tokenization.convert_to_unicode(split_line[1])
-            text_b = tokenization.convert_to_unicode(split_line[2])
-            label = split_line[0]
-            examples.append(InputExample(guid=guid, text_a=text_a,
-                                         text_b=text_b, label=label))
-        return examples
-
-    def get_dev_examples(self, data_dir):
-        file_path = os.path.join(data_dir, 'dev.tsv')
-        with open(file_path, 'r') as f:
-            reader = f.readlines()
-        examples = []
-        for index, line in enumerate(reader):
-            guid = 'train-%d' % index
-            split_line = line.strip().split("\t")
-            text_a = tokenization.convert_to_unicode(split_line[1])
-            text_b = tokenization.convert_to_unicode(split_line[2])
-            label = split_line[0]
-            examples.append(InputExample(guid=guid, text_a=text_a,
-                                         text_b=text_b, label=label))
-        return examples
-
-    def get_test_examples(self, data_dir):
-        """See base class."""
-        #file_path = os.path.join(data_dir, 'test.tsv')
-        file_path = data_dir
-        with open(file_path, 'r', encoding='utf-8') as f:
-            reader = f.readlines()
-        examples = []
-        for index, line in enumerate(reader):
-            guid = 'train-%d' % index
-            split_line = line.strip().split("\t")
-            text_a = tokenization.convert_to_unicode(split_line[1])
-            text_b = tokenization.convert_to_unicode(split_line[2])
-            label = split_line[0]
-            examples.append(InputExample(guid=guid, text_a=text_a,
-                                         text_b=text_b, label=label))
-        return examples
-
-    def get_labels(self):
-        """See base class."""
-        return ["0", "1"]
-
-    def _create_examples(self, lines, set_type):
-        """Creates examples for the training and dev sets."""
-        examples = []
-        for (i, line) in enumerate(lines):
-            # Only the test set has a header
-            if set_type == "test" and i == 0:
-                continue
-            guid = "%s-%s" % (set_type, i)
-            if set_type == "test":
-                text_a = tokenization.convert_to_unicode(line[1])
-                label = "0"
-            else:
-                text_a = tokenization.convert_to_unicode(line[1])
-                label = tokenization.convert_to_unicode(line[2])
-            examples.append(
-                InputExample(guid=guid, text_a=text_a, text_b=None, label=label))
-        return examples
 
 
 def convert_single_example(ex_index, example, label_list, max_seq_length,
@@ -718,7 +647,6 @@ def main(_):
 
   processors = {
       "extract": ExtractProcessor,
-      "match": MatchProcessor,
   }
 
   tokenization.validate_case_matches_checkpoint(FLAGS.do_lower_case,
@@ -900,6 +828,7 @@ def main(_):
             for class_probability in probabilities) + "\n"
         writer.write(output_line)
         num_written_lines += 1
+      # print(num_written_lines)
     assert num_written_lines == num_actual_predict_examples
 
 
